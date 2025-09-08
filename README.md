@@ -1,7 +1,7 @@
 # 👋 Olá! Sou o Ramon Dantas
 
 📘 - Estudante de Engenharia de Software no UniCEUB.  
-💻 - Aprendendo as bases da programação com foco em C e C++.
+💻 - Aprendendo as bases da programação.
 🫡 - Busco oportunidades na área, para desenvolver minhas habilidades.  
 
 Também tenho experiência com design gráfico, principalmente usando Adobe Illustrator e Photoshop, criando identidades visuais e materiais digitais.
@@ -15,9 +15,15 @@ Também tenho experiência com design gráfico, principalmente usando Adobe Illu
 ---
 
 ## 🔧 Tecnologias que estou aprendendo:
-<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/> 
-<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="python" width="40"/> <img src="https://img.icons8.com/?size=100&id=3764&format=png&color=FFFFFF" alt="sql" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" widt="40"/>
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="java script" widt="40"/>
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" widt="40"/>
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" widt="40"/>
+<img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="pgsql" width="40"/>
 <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="python" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
 - Fundamentos da Engenharia de Software
 - Coleta de requisitos
 
@@ -25,7 +31,7 @@ Também tenho experiência com design gráfico, principalmente usando Adobe Illu
 
   ## 📊Estatísticas
 
-![Estatísticas de Ramon Dantas](https://github-readme-stats.vercel.app/api?username=Ramon30vamp&show_icons=true&locale=pt-br&theme=dark)
+![Estatísticas de Ramon Dantas](https://github-readme-stats.vercel.app/api?username=RamonDantasPolicarpo&show_icons=true&locale=pt-br&theme=dark)
 
 ## 📌 Em breve
 Pretendo compartilhar aqui meus projetos acadêmicos, experimentos, desenvolvimento de software, engenharia e outras ideias pessoais.
