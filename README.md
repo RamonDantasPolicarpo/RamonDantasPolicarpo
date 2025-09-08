@@ -15,15 +15,9 @@ Também tenho experiência com design gráfico, principalmente usando Adobe Illu
 ---
 
 ## 🔧 Tecnologias que estou aprendendo:
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" widt="40"/>
-<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="java script" widt="40"/>
-<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" widt="40"/>
-<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" widt="40"/>
-<img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="pgsql" width="40"/>
-<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40"/>
-<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="python" width="40"/>
-<img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="java" width="40"/> <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="java script" width="40"/> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" width="40"/> <img src="https://img.icons8.com/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" alt="pgsql" width="40"/> <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="git" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="python" width="40"/> <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="C" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"/>
 - Fundamentos da Engenharia de Software
 - Coleta de requisitos
 
