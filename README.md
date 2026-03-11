@@ -1,40 +1,26 @@
-# Olá, eu sou o Ramon Dantas Policarpo! 👋
+# Ramon Dantas Policarpo 🧑🏻‍💻
 
-### Estudante de Engenharia de Software | Desenvolvedor Back-end
+### Software Engineering & Back-End Developer
 
-Atualmente no **3º semestre de Engenharia de Software** no UniCEUB, sou um desenvolvedor focado em **Java e Programação Orientada a Objetos (POO)**. Tenho experiência prática na construção de APIs robustas e na implementação de boas práticas de mercado.
+Desenvolvedor Backend com foco em Java e POO. Cursando Engenharia de Software 3/8. Com atuação no desenvolvimento de APIs e sistemas escaláveis, focado em aplicar padrões de projeto e boas práticas de desenvolvimento para entregar softwares de alta qualidade.
 
 ---
 
-### 🚀 Sobre mim
-- 🎓 **Formação:** 3º Semestre de Engenharia de Software - UniCEUB.
-- 💻 **Foco Atual:** Desenvolvimento de APIs RESTful utilizando Java 21 e Spring Boot.
-- 🛠️ **DevOps & Ferramentas:** Experiência com conteinerização (Docker), documentação (OpenAPI/Swagger) e versionamento colaborativo.
-- ⚡ **Diferencial:** Facilidade de adaptação a novas stacks e foco em soluções escaláveis.
+###  Sobre mim
+- 🎓 **Formação:** Engenharia de Software | UniCEUB | Semestre 3/8.
+- 🎯 **Objetivo:** Desenvolvimento Java 21 e Spring Boot - APIs RESTful.
+- ♾️ **DevOps:** Docker, OpenAPI/Swagger, GIT/GitHub.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramondantaspolicarpo/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramonpolicarpo36@gmail.com)
 ---
 
-### 💻 Tecnologias
+#### 🛠️ Stacks
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker,git,html,css,javascript,typescript)](https://skillicons.dev)
 
-#### Linguagens e Web
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-
-#### Frameworks e Ferramentas
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23C1272D?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
-### 📊 Atividade e Estatísticas
+### 📊 Stats
 
-<p align="start">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ramondantaspolicarpo&theme=transparent" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RamonDantasPolicarpo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
