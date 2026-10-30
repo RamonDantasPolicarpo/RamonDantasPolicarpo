@@ -7,7 +7,7 @@ Desenvolvedor Backend com foco em Java e POO. Cursando Engenharia de Software 4/
 ---
 
 ###  Sobre mim
-- 🎓 **Formação:** Engenharia de Software | UniCEUB | Semestre 3/8.
+- 🎓 **Formação:** Engenharia de Software | UniCEUB | Semestre 4/8.
 - 🎯 **Objetivo:** Desenvolvimento Java 21 e Spring Boot - APIs RESTful.
 - ♾️ **DevOps:** Docker, OpenAPI/Swagger, GIT/GitHub.
 
