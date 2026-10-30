@@ -2,7 +2,7 @@
 
 ### Software Engineering & Back-End Developer
 
-Desenvolvedor Backend com foco em Java e POO. Cursando Engenharia de Software 3/8. Com atuação no desenvolvimento de APIs e sistemas escaláveis, focado em aplicar padrões de projeto e boas práticas de desenvolvimento para entregar softwares de alta qualidade.
+Desenvolvedor Backend com foco em Java e POO. Cursando Engenharia de Software 4/8. Com atuação no desenvolvimento de APIs e sistemas escaláveis, focado em aplicar padrões de projeto e boas práticas de desenvolvimento para entregar softwares de alta qualidade.
 
 ---
 
